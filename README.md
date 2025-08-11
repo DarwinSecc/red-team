@@ -1,30 +1,24 @@
-# Red Team
+# 🚨 Red Team – Segurança Ofensiva e Testes de Intrusão
 
-## Visão Geral
-Este repositório irá documentar técnicas, ferramentas e práticas voltadas para a atuação ofensiva em segurança da informação, representando a perspectiva do atacante (**Red Team**). O objetivo é registrar a metodologia e os aprendizados necessários para simular ameaças e testar a resiliência de ambientes de forma controlada e ética.
+Este repositório contém **projetos, ferramentas e metodologias** utilizadas em **operações de segurança ofensiva**, simulação de ataques e **testes de penetração**.
 
----
+## 🔍 Importância
+O Red Team atua como um adversário controlado, ajudando organizações a identificar **pontos fracos** e **falhas de segurança** antes que sejam exploradas por atacantes reais.
 
-### Por que estudar Red Team?
-* Desenvolve pensamento ofensivo para entender as vulnerabilidades.
-* Ajuda a testar e validar controles de segurança.
-* Essencial para profissionais de **pentest**, consultores e analistas ofensivos.
+## 🎯 Por que estudar
+- Desenvolve mentalidade ofensiva para prever ações de atacantes.  
+- Melhora capacidade de **exploração de vulnerabilidades**.  
+- Aperfeiçoa estratégias de **teste de segurança em redes e sistemas**.  
 
-### Temas que serão abordados
-* Reconhecimento ativo e passivo.
-* Exploração de vulnerabilidades.
-* **Phishing** e engenharia social.
-* Movimentação lateral e elevação de privilégios.
-* Pós-exploração e persistência.
-* Evasão de antivírus e **EDR**.
-* Ferramentas como **Cobalt Strike**, **Metasploit**, **Empire**, **BloodHound**.
-* Simulações adversariais (**MITRE ATT&CK**).
+## 📌 Conteúdo Abordado
+- Técnicas de coleta de informações (OSINT).
+- Exploração de vulnerabilidades.
+- Movimentação lateral e persistência.
+- Uso de frameworks como **Metasploit** e **Cobalt Strike**.
+- Relatórios de vulnerabilidade e recomendações.
 
-### Desafios e boas práticas
-* **Responsabilidade legal**: atuar somente em ambientes autorizados.
-* **Ambientes realistas**: uso de home lab para testes.
-* **Documentação das etapas**: criação de relatórios profissionais.
+> **Palavras-chave:** pentest, red team, exploração, OSINT, engenharia social, testes de intrusão, vulnerabilidades, Cobalt Strike.
 
 ---
 
-**Status**: Repositório em fase inicial. Novos conteúdos serão adicionados continuamente.
+🔗 [⬅️ Voltar para o Cyber Security Lab](https://github.com/DarwinSecc/cyber-security-lab)
